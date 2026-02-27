@@ -1,4 +1,4 @@
-# TransLingua-AI-Powered-Multi-Language-Translator# TransLingua 
+# TransLingua-AI-Powered-Multi-Language-Translator
 TransLingua is a web-based AI-powered language translation application built using **Streamlit** and **Google Gemini Generative AI**.  
 It allows users to translate text between multiple languages through a simple and interactive interface.
 
