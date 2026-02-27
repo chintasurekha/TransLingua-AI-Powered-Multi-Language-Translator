@@ -97,7 +97,7 @@ python -m streamlit run translang.py
 ```
 Demo Video
  Demo Video Link:
-https://drive.google.com/file/d/1B9iWLC_6BGqozw8fzpqaY7_gEhko-j9Z/view?usp=drive_link
+C:\Users\chint\Downloads\TransLingua_Project\Project Documentation\Demo video for  translingua_ ai-powered multi-language translator (1).mp4
 
 
 Application execution
